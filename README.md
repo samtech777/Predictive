@@ -8,7 +8,7 @@
 5) Run the "ModelEvalutionMetrics.kf"
 6) Once the run is completed, check for results
 7) view the cleansed data
-8) View the TextViewer for the results
+8) View the TextViewer for the results, change the parameters and rerun the "ModelEvalutionMetrics.kf"
 
 Use the same approach for "CV Analysis.kf"
 
